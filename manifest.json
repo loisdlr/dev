@@ -1,0 +1,16 @@
+{
+  "short_name": "RentalMgr",
+  "name": "Rental Unit Manager",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/609/609803.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/Rental-Unit-Manager/",
+  "background_color": "#f4f1ee",
+  "display": "standalone",
+  "scope": "/Rental-Unit-Manager/",
+  "theme_color": "#3e2723"
+}
